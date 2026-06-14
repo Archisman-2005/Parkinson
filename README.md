@@ -1,7 +1,7 @@
 # Parkinson's Disease Detection via Handwriting & Drawing Pattern Analysis
 
 > **Summer Research Project** — Image & Signal Processing Lab, Dept. of Electrical Engineering, IIT Kharagpur
-> **Status:** 🔄 In Progress
+> **Model Link:** https://drive.google.com/file/d/1k567FnEYvRI5T9jBv2Oqr2nUvsWytWda/view?usp=drive_link 
 
 ---
 
